@@ -38,7 +38,7 @@
           <h2 align="center">👤 <b>HUNTER PROFILE</b></h2>
           <p align="center"><b>NAME:</b> REAOBAKA MOGAJANE</p>
           <p align="center"><b>GUILD:</b> NORTH-WEST UNIVERSITY</p>
-          <p align="center"><b>RANK:</b> S-RANK DEVELOPER</p>
+          <p align="center"><b>RANK:</b> B-RANK DEVELOPER</p>
           <p align="center"><b>SPECIALTY:</b> SHADOW CODING</p>
           <p align="center"><b>LOCATION:</b> SOUTH AFRICA 🇿🇦</p>
           <p align="center"><b>MANA:</b> ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡ (MAX)</p>
