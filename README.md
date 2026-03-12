@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RkPaaECpxIJtUL1oRm/giphy.gif" width="200" style="border-radius: 50%; border: 3px solid #2F80ED;"/>
   <br>
-  <em>Software Engineer | North-West University</em>
+  <em>Software Engineer trainee | LLM engineer trainee | North-West University</em>
 </div>
 
 <br>
