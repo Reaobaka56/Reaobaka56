@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/RkPaaECpxIJtUL1oRm/giphy.gif" width="200" style="border-radius: 50%; border: 3px solid #2F80ED;"/>
   <br>
-  <em>Software Engineer trainee | Learning machine learning | North-West University</em>
+  <em>Software Engineer trainee | North-West University</em>
 </div>
 
 <br>
