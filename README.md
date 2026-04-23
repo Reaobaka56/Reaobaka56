@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 **Frontend:** React, Next.js, Tailwind, Vite  
 **Backend:** Node.js, Express  
 **Languages:** TypeScript, JavaScript, Python, C++  
@@ -32,7 +32,7 @@
 
 ---
 
-## 🔥 Projects
+##  Projects
 
 ### AtlasStack
 🔗 https://github.com/Reaobaka56/atlasstack  
@@ -58,19 +58,17 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reaobaka56&show_icons=true&theme=dark" />
 </p>
 
 ---
 
-## 📫 Contact
+##  Contact
 - Email: reaobakaraxymogajane@gmail.com  
 - Portfolio: https://mogajane.netlify.app/  
 - LinkedIn: https://linkedin.com/in/reaobaka-mogajane  
 
 ---
 
-## 💡 Motto
-> Build. Break. Learn. Repeat.
