@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 - BSc Computer Science & Electronics (2nd Year)
 - Focused on **Full-Stack Development & AI Systems**
 - Building scalable applications and intelligent developer tools
@@ -67,8 +67,6 @@
 
 ##  Contact
 - Email: reaobakaraxymogajane@gmail.com  
-- Portfolio: https://mogajane.netlify.app/  
-- LinkedIn: https://linkedin.com/in/reaobaka-mogajane  
 
 ---
 
