@@ -1,8 +1,8 @@
 <h1 align="center">Reaobaka Mogajane</h1>
+
 <p align="center">
-  Software Engineer • MERN Stack • AI Systems  
-  <br>
-  South Africa 🇿🇦
+  <b>Software Engineer • Full-Stack (MERN) • AI Systems Builder</b><br/>
+  South Africa
 </p>
 
 <p align="center">
@@ -14,59 +14,72 @@
 
 ---
 
-##  About Me
+## About Me
+
 - BSc Computer Science & Electronics (2nd Year)
-- Focused on **Full-Stack Development & AI Systems**
-- Building scalable applications and intelligent developer tools
-- Strong interest in backend engineering and AI infrastructure
+- Focused on Full-Stack Engineering + AI Systems
+- Building scalable applications, developer tools, and intelligent systems
+- Interested in backend architecture, APIs, and AI infrastructure
 
 ---
 
-##  Tech Stack
-**Frontend:** React, Next.js, Tailwind, Vite  
-**Backend:** Node.js, Express  
-**Languages:** TypeScript, JavaScript, Python, C++  
-**Database:** MongoDB  
-**Tools:** Git, GitHub, Railway, Vercel  
-**AI/ML:** PyTorch, Scikit-learn, LLMs
+## Tech Stack
 
----
-
-##  Projects
-
-### AtlasStack
-🔗 https://github.com/Reaobaka56/atlasstack  
-- Full-stack MERN application built with TypeScript  
-- Designed scalable REST APIs and dynamic frontend UI  
-- Deployed using Railway  
-- Focused on modular architecture and clean code  
-
----
-
-### Code-ZA
-🔗 https://github.com/Reaobaka56/code-za  
-- Software project for experimenting with real-world coding solutions  
-- Built using JavaScript/TypeScript  
-- Demonstrates practical problem-solving and development workflows  
-
----
-
-### AI Code Review System
-- Built an autonomous AI tool to analyze GitHub repositories  
-- Detects bugs and suggests fixes using LLMs  
-- Designed ML pipeline with vector database integration  
-
----
-
-##  GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reaobaka56&show_icons=true&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40"/>
+</p>
+<p align="center">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" height="40"/>
+
+  <!-- AI / ML -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40"/>
 </p>
 
 ---
 
-##  Contact
-- Email: reaobakaraxymogajane@gmail.com  
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reaobaka56&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reaobaka56&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
+## Contact
+
+- Email: reaobakaraxymogajane@gmail.com  
+- Portfolio: https://mogajane.netlify.app  
+- LinkedIn: https://linkedin.com/in/reaobaka-mogajane  
+
+---
+
+<p align="center">
+  Built with focus on clean architecture, scalable systems, and AI engineering
+</p>
