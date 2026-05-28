@@ -86,26 +86,6 @@
 
 ---
 
-## Featured Projects
-
-###  AtlasStack
-Autonomous software engineering engine that analyzes GitHub repositories, finds bugs, and proposes fixes using AI.
-
-###  code-za
-High-performance multi-language code runner built by students for students.
-
-###  Desktop Bot
-Voice-controlled AI assistant that lives on your desk. Speak a question → Gemini thinks → Answer appears on LCD.
-
----
-
-## Contact & Links
-- **Email:** reaobakaraxymogajane@gmail.com  
-
-- **LinkedIn:** https://linkedin.com/in/reaobaka-mogajane  
-- **GitHub:** https://github.com/reaobaka56  
-
----
 
 <p align="center">
   <b>Building the future with clean architecture, scalable systems, AI engineering, and hardware innovation</b><br/>
