@@ -1,6 +1,6 @@
 <h1 align="center">Reaobaka Mogajane</h1>
 <p align="center">
-  <b>Software Engineer • Full-Stack (MERN) • AI Systems Builder • Hardware Engineer</b><br/>
+  <b>Software Engineer • Full-Stack (MERN) • AI Systems Builder • Hardware Builder </b><br/>
   🇿🇦 South Africa
 </p>
 <p align="center">
