@@ -1,19 +1,10 @@
-<h1 align="center">Reaobaka Mogajane</h1>
+<h1 align="center">Babacamp</h1>
 <p align="center">
   <b>Software Engineer • Full-Stack (MERN) • AI Systems Builder • Hardware Builder </b><br/>
-  🇿🇦 South Africa
-</p>
-<p align="center">
-  <a href="https://github.com/Reaobaka56">GitHub</a> •
-  <a href="https://linkedin.com/in/reaobaka-mogajane">LinkedIn</a> •
-  <a href="mailto:reaobakaraxymogajane@gmail.com">Email</a> •
-  <a href="https://mogajane.netlify.app/">Portfolio</a>
-</p>
 
----
 
 ## About Me
--  BSc Computer Science & Electronics (2nd Year @ North-West University)
+-  BSc Computer Science
 -  Full-Stack Engineer (MERN, TypeScript) + AI Systems Builder
 -  Hardware  (Arduino, embedded systems, circuit design)
 -  Building scalable applications, developer tools, intelligent systems, and IoT solutions
