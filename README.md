@@ -80,5 +80,4 @@
 
 <p align="center">
   <b>Building the future with clean architecture, scalable systems, AI engineering, and hardware innovation</b><br/>
-  <i>Full-stack engineer | AI builder | Hardware dude | Based in 🇿🇦</i>
 </p>
