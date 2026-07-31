@@ -1,10 +1,10 @@
-<h1 align="center">reaobaka  mogajane</h1>
+<h1 align="center">Reaobaka  Mogajane</h1>
 <p align="center">
   <b>Software Engineer • AI Systems Builder • Hardware Builder </b><br/>
 
 
 ## About Me
--  BSc Computer Science
+-  BSc Computer Science & electronics (NWU)
 -  Full-Stack Engineer (MERN, TypeScript) + AI Systems Builder
 -  Hardware  (Arduino, embedded systems, circuit design)
 -  Building scalable applications, developer tools, intelligent systems, and IoT solutions
