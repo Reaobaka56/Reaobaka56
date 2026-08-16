@@ -8,6 +8,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reaobaka56&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reaobaka56&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
