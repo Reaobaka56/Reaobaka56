@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br/>
-  another victim of coputer science .
+  software engineer blah blah blah , coding since highschool ,  eeeeh now i spend my days vibe coding and trying to comple this math , degre... eish i mean computer science ...
 </p>
 
 <p align="center">
