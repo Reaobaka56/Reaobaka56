@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Engineer</strong><br/>
-  Computer Science & electronics @ North-West University
+  another victim of coputer science .
 </p>
 
 <p align="center">
