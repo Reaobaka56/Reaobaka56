@@ -1,4 +1,4 @@
- <h1 align="center">Reaobaka Mogajane</h1>
+ <h1 align="center">Reaobaka Mogajane Scott</h1>
 
 <p align="center">
   <strong>Software Engineer</strong><br/>
