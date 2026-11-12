@@ -1,9 +1,4 @@
- <h1 align="center">Reaobaka Mogajane Scott</h1>
 
-<p align="center">
-  <strong>Software Engineer</strong><br/>
-  software engineer blah blah blah , coding since highschool ,  eeeeh now i spend my days vibe coding and trying to comple this math , degre... eish i mean computer science ...
-</p>
 
 <p align="center">
   <a href="https://github.com/Reaobaka56">
